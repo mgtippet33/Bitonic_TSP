@@ -1,0 +1,12 @@
+D:\Универ\2 курс\Алгоритмы (Advance)\Project\BitonicTour\BitonicTour\bin\Debug\BitonicTour.exe.config
+D:\Универ\2 курс\Алгоритмы (Advance)\Project\BitonicTour\BitonicTour\bin\Debug\BitonicTour.exe
+D:\Универ\2 курс\Алгоритмы (Advance)\Project\BitonicTour\BitonicTour\bin\Debug\BitonicTour.pdb
+D:\Универ\2 курс\Алгоритмы (Advance)\Project\BitonicTour\BitonicTour\obj\Debug\BitonicTour.csprojAssemblyReference.cache
+D:\Универ\2 курс\Алгоритмы (Advance)\Project\BitonicTour\BitonicTour\obj\Debug\BitonicTour.Form1.resources
+D:\Универ\2 курс\Алгоритмы (Advance)\Project\BitonicTour\BitonicTour\obj\Debug\BitonicTour.Properties.Resources.resources
+D:\Универ\2 курс\Алгоритмы (Advance)\Project\BitonicTour\BitonicTour\obj\Debug\BitonicTour.csproj.GenerateResource.cache
+D:\Универ\2 курс\Алгоритмы (Advance)\Project\BitonicTour\BitonicTour\obj\Debug\BitonicTour.csproj.CoreCompileInputs.cache
+D:\Универ\2 курс\Алгоритмы (Advance)\Project\BitonicTour\BitonicTour\obj\Debug\BitonicTour.exe
+D:\Универ\2 курс\Алгоритмы (Advance)\Project\BitonicTour\BitonicTour\obj\Debug\BitonicTour.pdb
+D:\Универ\2 курс\Алгоритмы (Advance)\Project\BitonicTour\BitonicTour\obj\Debug\BitonicTour.EditSize.resources
+D:\Универ\2 курс\Алгоритмы (Advance)\Project\BitonicTour\BitonicTour\obj\Debug\BitonicTour.About.resources
